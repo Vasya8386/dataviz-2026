@@ -1,4 +1,3 @@
-````md id="q7mjlwm"
 # Data Handling & Visualization - DHV301
 
 Repository documenting the process of learning data visualization with Python - from environment setup to practicing with pandas, matplotlib, and seaborn.
@@ -14,7 +13,7 @@ The assignment focuses on:
 # Repository Structure
 
 ```text
-dataviz-2025/
+dataviz-2026/
 │
 ├── setup_test.ipynb
 ├── setup_log.md
@@ -103,7 +102,7 @@ git clone <https://github.com/Vasya8386/dataviz-2026>
 ## 2. Open the project folder
 
 ```bash
-cd dataviz-2025
+cd dataviz-2026
 ```
 
 ---
